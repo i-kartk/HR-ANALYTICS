@@ -1,4 +1,4 @@
-# HR Analytics - Employee Attendance Dashboard
+# HR Analytics
 
 ## 📊 Project Overview
 
